@@ -1,0 +1,23 @@
+{
+  "name": "jquery-equalizebottoms",
+  "version": "1.5.0",
+  "description": " equalize the bottoms of multiple elements, making columns heights even, even when CSS refuses to help",
+  "main": "jquery.ba-equalizebottoms.js",
+  "directories": {
+    "doc": "docs",
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cowboy/jquery-equalizebottoms.git"
+  },
+  "author": "cowboy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cowboy/jquery-equalizebottoms/issues"
+  },
+  "homepage": "https://github.com/cowboy/jquery-equalizebottoms#readme"
+}
